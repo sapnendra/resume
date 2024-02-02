@@ -11,6 +11,10 @@
         padding: 8px;
     }
 
+    body h1 {
+        font-size: 2rem;
+    }
+
     body img {
         height: 200px;
     }
