@@ -8,6 +8,7 @@
         background: linear-gradient(90deg, #cf9ffa, #f38bfb);
         color: white;
         font-size: 1.2rem;
+        padding: 8px;
     }
 
     body img {
