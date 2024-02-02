@@ -24,4 +24,10 @@
         color: rgb(123, 123, 255);
         font-weight: 500;
     }
+
+    #progress {
+        color: red;
+        background-color: yellow;
+        text-align: center;
+    }
 }
